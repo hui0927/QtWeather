@@ -13,3 +13,6 @@
 * 使用QNetwork发送HTTP请求 获得天气数据
 * 使用QJsonDocument解析JSON、QFile读写JSON数据
 * 使用信号槽实现对象间的通信和交互,实现用户搜索后显示数据到界面
+
+## :computer:QT项目发布打包参考
+https://subingwen.cn/qt/qt-setup/
